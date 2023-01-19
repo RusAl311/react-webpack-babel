@@ -12,7 +12,7 @@
         "tscheck": "tsc",
         "lint": "eslint '**/*.{ts,tsx}'",
         "lint:fix": "eslint '**/*.{ts,tsx}' --fix",
-        "format": "prettier --write '**/*.{ts,tsx,scss,css,js,jsx,json}'",
+        "format": "prettier --write '**/*.{ts,tsx,scss,css,js,jsx,json}'"
     },
     "devDependencies": {
         "@babel/core": "^7.20.12",
